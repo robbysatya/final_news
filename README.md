@@ -1,5 +1,4 @@
-# projectfinal_bootcamp
-
+# Final News
 A new Flutter project.
 
 ## Getting Started
